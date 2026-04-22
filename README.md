@@ -284,7 +284,7 @@ pip install pandas matplotlib seaborn openpyxl
 jupyter notebook notebooks/upi_analysis.ipynb
 ```
 
-Open `UPI_Growth_Analysis_SKA_Sameer.pbix` in Power BI Desktop and click Refresh if prompted.
+Open `UPI_Growth_Analysis.pbix` in Power BI Desktop and click Refresh if prompted.
 
 ---
 
