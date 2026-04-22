@@ -40,7 +40,7 @@ The project follows a complete end-to-end workflow: Python for cleaning and EDA,
 | 5 | YoY growth rate in 2025 | **31.3%** — market maturing, not declining |
 | 6 | Total value processed in 2025 alone | **Rs.305.33 Lakh Crore** |
 | 7 | Total months of data analysed | **113 months** (Aug 2016 to Dec 2025) |
-|
+
 
 ---
 
