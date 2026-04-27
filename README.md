@@ -31,7 +31,7 @@ The project follows a complete end-to-end workflow: Python for cleaning and EDA,
 
 ## Key Findings
 
-| # | Finding | Number |
+| S.No | Finding | Number |
 |---|---------|--------|
 | 1 | UPI volume growth from 2017 to 2025 | **683x** (339 Mn to 2,31,750 Mn) |
 | 2 | UPI growth during COVID-19 in 2020 | **+58.2% YoY** — accelerated, not slowed |
